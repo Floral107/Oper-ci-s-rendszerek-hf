@@ -1,2 +1,2 @@
-# Oper-ci-s-rendszerek-hf
+# Operacios-rendszerek-hf
 Az Operációs rendszerek tárgy szorgalmi feladatai.
